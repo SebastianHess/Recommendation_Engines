@@ -14,9 +14,7 @@
 
 This project will analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles they might like. Below you can see an example of what the dashboard could look like displaying articles on the IBM Watson Platform.
 
-![0](/pics/screen-shot-2018-09-17-at-3.40.30-pm.png   
-
-[Source of picture](https://learn.udacity.com/nanodegrees/nd025/parts/cd0019/lessons/ls11961/concepts/36397974-66bf-4662-b49a-935745c0fe87 "Source of picture")
+![0](/pics/screen-shot-2018-09-17-at-3.40.30-pm.png[Sourceofpicture](https://learn.udacity.com/nanodegrees/nd025/parts/cd0019/lessons/ls11961/concepts/36397974-66bf-4662-b49a-935745c0fe87 "Source of picture")
 
 ### Project Overview
 
@@ -35,21 +33,21 @@ It is necessary to install libraries to run the code in Anaconda. The necessary 
 
 ## 3. Project Motivation<a name="motivation"></a>
 
-1. Exploratory Data Analysis
+### 1. Exploratory Data Analysis
 
 Before making recommendations of any kind, it is necessary to explore the data for the project. There are some basic, required questions to be answered about the data throughout the rest of the notebook. 
 
-2. Rank Based Recommendations
+### 2. Rank Based Recommendations
 
 To get started in building recommendations, it is required to find the most popular articles simply based on the most interactions. Since there are no ratings for any of the articles, it is easy to assume the articles with the most interactions are the most popular. These are then the articles which could be recommended to new users.
 
-3. User-User Based Collaborative Filtering
+### 3. User-User Based Collaborative Filtering
 
 In order to build better recommendations for the users of IBM's platform, it is necessary to look at users that are similar in terms of the items they have interacted with. These items could then be recommended to the similar users.
 
-4. Not provided in this project.
+### 4. Not provided in this project.
 
-5. Matrix Factorization
+### 5. Matrix Factorization
 
 Finally, the project completes in a machine learning approach to building recommendations. Using the user-item interactions, a matrix decomposition will be build out. Using the decomposition will show how well it is possible to predict new articles an individual might interact with 
 
