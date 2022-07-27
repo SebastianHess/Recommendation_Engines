@@ -60,9 +60,6 @@ Finally, the project completes in a machine learning approach to building recomm
 | - articles_community.csv
 | - user-item-interactions.csv
 
-- pics
-|- screen-shot-2018-09-17-at-3.40.30-pm.png
-
 - project_tests.py
 - README.md
 - Recommendations_with_IBM.html
