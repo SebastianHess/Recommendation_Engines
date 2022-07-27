@@ -12,11 +12,7 @@
 
 ## 1. Introduction <a name="introduction"></a>
 
-This project will analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles they might like. Below you can see an example of what the dashboard could look like displaying articles on the IBM Watson Platform.
-
-![0](/pics/screen-shot-2018-09-17-at-3.40.30-pm.JPG)
-
-<span style="font-size:1em;">[Source of picture](https://video.udacity-data.com/topher/2018/September/5ba02d6d_screen-shot-2018-09-17-at-3.40.30-pm/screen-shot-2018-09-17-at-3.40.30-pm.png")</span>
+This project will analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles they might like. 
 
 ### Project Overview
 
